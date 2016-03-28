@@ -1,0 +1,61 @@
+H [12957] arrives
+H [12957] is waiting. Current C #[0], Current H #[1].
+H [12956] arrives
+H [12956] is waiting. Current C #[0], Current H #[2].
+C [12955] arrives
+C [12955] is waiting. Current C #[1], Current H #[2]
+H [12958] arrives
+H [12958] is waiting. Current C #[1], Current H #[3].
+H [12959] arrives
+
+H [12959] is combining to make CH4
+
+H [12960] arrives
+H [12960] is waiting. Current C #[0], Current H #[1].
+C [12953] arrives
+C [12953] is waiting. Current C #[1], Current H #[1]
+H [12961] arrives
+H [12961] is waiting. Current C #[1], Current H #[2].
+H [12962] arrives
+H [12962] is waiting. Current C #[1], Current H #[3].
+H [12963] arrives
+
+H [12963] is combining to make CH4
+
+C [12954] arrives
+C [12954] is waiting. Current C #[1], Current H #[0]
+H [12965] arrives
+H [12965] is waiting. Current C #[1], Current H #[1].
+H [12966] arrives
+H [12966] is waiting. Current C #[1], Current H #[2].
+H [12967] arrives
+H [12967] is waiting. Current C #[1], Current H #[3].
+H [12968] arrives
+
+H [12968] is combining to make CH4
+
+H [12970] arrives
+H [12970] is waiting. Current C #[0], Current H #[1].
+H [12969] arrives
+H [12969] is waiting. Current C #[0], Current H #[2].
+H [12971] arrives
+H [12971] is waiting. Current C #[0], Current H #[3].
+H [12972] arrives
+H [12972] is waiting. Current C #[0], Current H #[4].
+C [12952] arrives
+
+C [12952] is combining to make CH4
+
+H [12974] arrives
+H [12974] is waiting. Current C #[0], Current H #[1].
+H [12964] arrives
+H [12964] is waiting. Current C #[0], Current H #[2].
+H [12975] arrives
+H [12975] is waiting. Current C #[0], Current H #[3].
+H [12973] arrives
+H [12973] is waiting. Current C #[0], Current H #[4].
+C [12951] arrives
+
+C [12951] is combining to make CH4
+
+All finished, cleaning up!
